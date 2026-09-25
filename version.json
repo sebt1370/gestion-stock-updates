@@ -1,0 +1,6 @@
+{
+  "versionCode": 12,
+  "versionName": "3.6.1",
+  "message": "Nouvelle version 3.6.1 disponible : améliorations de l'état du stock, correction de l'ajout manuel, nouveaux réglages d'alertes, affichage des ruptures de stock et ajout de l'historique des versions.",
+  "releasePage": "https://github.com/sebt1370/gestion-stock/releases"
+}
